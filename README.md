@@ -1,2 +1,2 @@
 # GSWebCloudApp.DemoDocker
-Ready-to-use demo version of the Management Festivals Cloud app via docker.
+Ready-to-use demo version of the Gestione Sagre Web Cloud app via docker.
