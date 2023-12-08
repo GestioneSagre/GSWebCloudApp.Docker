@@ -1,2 +1,3 @@
-# GSWebCloudApp.DemoDocker
-Ready-to-use demo version of the Gestione Sagre Web Cloud app via docker.
+# Gestione Sagre Web Cloud App Docker
+
+Ready-to-use dockerized application Sagre Web Cloud Management.
